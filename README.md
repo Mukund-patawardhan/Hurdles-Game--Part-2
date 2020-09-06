@@ -1,2 +1,2 @@
-# Hurdles-Game--Part-2
-C 39 Project
+# p5.play-boilerplate
+Boiler plate for p5.play
